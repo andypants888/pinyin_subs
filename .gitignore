@@ -9,5 +9,5 @@ wheels/
 # Virtual environments
 .venv
 
-# dev
-dev/
+# not for repo
+resources/
