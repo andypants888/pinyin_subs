@@ -1,10 +1,15 @@
-def main(input_srt):
-    with open(input_srt, "r") as f:
-        content = f.read()
+import pysrt
 
-    print(content)
+def main(input_file):
+    # with open(input_file, "r") as f:
+    #     content = f.read()
+    subs = pysrt.open(input_file)
+
+
+    print(subs[1])
 
     print("Hello from pinyinsubs!")
+
 
 
 
