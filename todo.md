@@ -1,0 +1,5 @@
+- Add pinyin via python
+- Remove "All caps" from subs via python
+- Add context to translations
+- Make template file for "use case", translation lang & genre
+- Package for later use & publish

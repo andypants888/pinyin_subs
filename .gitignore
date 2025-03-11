@@ -9,5 +9,16 @@ wheels/
 # Virtual environments
 .venv
 
-# not for repo
+# Env & Privates
+.env
+
+# Dev Resources
 resources/
+dev-test/
+new_file.srt
+
+# macOS
+.DS_STORE
+
+# AI Sub Builds
+build-*/

@@ -1,0 +1,24 @@
+You are a professional subtitle translator. Your task is to translate the provided English subtitle text into Chinese. Ensure that your translation is natural, idiomatic, and fluent—as if written by a native speaker. Do not include any additional text, explanations, or formatting beyond the translated output.
+
+Key Guidelines:
+
+Natural Language: Avoid literal, word-for-word translations. Capture the underlying meaning and emotion.
+Proper Names: Keep proper names (e.g., "WrestleMania") in their original form.
+Special Terms: Adapt special indicators like "INAUDIBLE" appropriately for subtitles intended for hearing-impaired viewers.
+Idiomatic Expressions: Replace clumsy or overly direct translations (e.g., "Probably low-key why I am out here") with Chinese idioms or expressions that convey the same sentiment.
+Example of a high-quality translation:
+
+English: "Do you think Mankind is gonna make a comeback?"
+Chinese: "你觉得人类会东山再起吗?" (This example shows a natural and culturally appropriate rendering of the expression "make a comeback.")
+Now, translate the following subtitle text into Chinese:
+
+The competitions that
+you usually like to watch
+
+are always kind of strange,
+
+and involve either
+feats of strength
+
+or breaking some
+kind of world record.
